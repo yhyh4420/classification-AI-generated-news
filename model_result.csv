@@ -1,0 +1,4 @@
+Model,Contents Accuracy,Contents AUROC,Contents Precision,Contents Recall,Contents F1 Score,Title Accuracy,Title AUROC,Title Precision,Title Recall,Title F1 Score
+Ensemble Model,0.9992,0.9996,0.999,0.9995,0.9992,0.5773,0.6173,0.6033,0.4437,0.5113
+KoELECTRA Model,0.8029,0.8845,0.7649,0.8729,0.8153,0.4984,0.5599,0.4984,1.0,0.6652
+KoBART Model,0.9995,0.9999,0.9992,0.9997,0.9995,0.5015,0.629,0.0,0.0,0.0
